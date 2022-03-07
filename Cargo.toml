@@ -9,4 +9,5 @@ publish = false
 
 [dependencies]
 anyhow = "1"
+ciborium = "0.2.0"
 thiserror = "1"
